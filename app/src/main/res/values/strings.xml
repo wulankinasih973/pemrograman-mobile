@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Data Diri</string>
+    <string name="name1">Wulan Kinasih</string>
+    <string name="address1">Yogyakarta</string>
+    <string name="name2">Tiara Kusuma</string>
+    <string name="address2">Yogyakarta</string>
+    <string name="name3">Sinta Ayu</string>
+    <string name="address3">Bandung</string>
+</resources>
